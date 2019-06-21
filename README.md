@@ -37,6 +37,10 @@ Demonstrate your understanding of this week's concepts by answering the followin
 1. What is the name given to a table column that references the primary key on another table.
 1. What do we need in order to have a _many to many_ relationship between two tables.
 
+1 RDBMS is a paridigm of relational database. SQL is a langague with the assumption of a relational databse.
+2 Faster lookup. DB have gotten really good at number sorting.
+3. Foreign key
+4. a join table
 ## Project Set Up
 
 Follow these steps for starting your project.
