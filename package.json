@@ -1,0 +1,19 @@
+{
+  "name": "webdb-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/13JonathanDavid/webdb-challenge",
+  "author": "13JonathanDavid <48808640+13JonathanDavid@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "knex": "^0.17.6",
+    "sqlite3": "^4.0.9"
+  }
+}
